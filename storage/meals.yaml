@@ -1,0 +1,51 @@
+- Name: "Macaroni Cheese"
+  Description: "Mac and Cheese"
+  IngredientRequirements:
+    - Name: "Cheese"
+      Quantity: 1
+    - Name: "Macaroni"
+      Quantity: 1
+    - Name: "Bacon"
+      Quantity: 1
+    - Name: "Onion"
+      Quantity: 1
+    - Name: "Chicken Salt"
+      Quantity: 1
+
+
+- Name: "Lasagna"
+  Description: ""
+  IngredientRequirements:
+  - Name: "Mince"
+  - Name: "Cheese"
+  - Name: "Lasagna Sheets"
+
+- Name: "Burgers"
+  Description: "Borgar"
+  IngredientRequirements:
+  - Name: "Patties"
+  - Name: "Bread Buns"
+  - Name: "Cheese"
+
+- Name: "Nachos"
+  Description: "Nachos - Note: Make spicy and not spicy variant"
+  IngredientRequirements:
+  - Name: "Mince"
+  - Name: "Corn Chips"
+  - Name: "Sour Cream"
+  - Name: "Chilli Beans"
+
+- Name: "Japanese Katsu Curry"
+  Description: "Japaneese Spicy Curry"
+  IngredientRequirements:
+  - Name: "Rice"
+  - Name: "Potato"
+  - Name: "Chicken Schnitzel"
+  - Name: "Apple+Honey Curry"
+- Name: "Pizza"
+  Description: "Pizza - Made to demand"
+  IngredientRequirements:
+  - Name: "Tomato Paste"
+  - Name: "Pizza Bases"
+  - Name: "Selection of meats"
+  - Name: "Misc. Pizza toppings"
